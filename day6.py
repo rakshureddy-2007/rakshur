@@ -1,0 +1,9 @@
+a = [20,40,60]
+b = [10,30,50]
+print("list a =",a)
+print("list b =",b)
+b[0] = 100
+b[1] = 500
+b[2] = 1000
+print("after changing b =")
+print("list b =",b)
