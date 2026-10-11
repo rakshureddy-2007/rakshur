@@ -6,4 +6,10 @@ b[0] = 100
 b[1] = 500
 b[2] = 1000
 print("after changing b =")
-print("list b =",b)
+print("list b = ",b)
+find = 500
+print("find = ",find)
+if find in b:
+    print("find in b")
+else:
+    print("not find in b")
