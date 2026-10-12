@@ -1,0 +1,1 @@
+print("i love you rakshu   💖🧿😘" *100000)
